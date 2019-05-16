@@ -1,4 +1,4 @@
-#include "Pokemon.cpp"
+#include "Pokemon.h"
 using namespace std;
 int main() {
     Pokemon p1;
